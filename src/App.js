@@ -1,26 +1,25 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React from "react"
+import Card from "./components/Card"
+import styled from "styled-components"
 
-function App() {
+const Container = styled.div`
+  max-width: 500px;
+  text-align: center;
+  margin: auto;
+  border: 3px solid teal;
+  border-radius: 4px;
+`
+const Title = styled.h1`
+  color: teal;
+`
+
+const App = () => {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+    <Container>
+      <Title>Random Card Flavors</Title>
+      <Card />
+    </Container>
+  )
 }
 
-export default App;
+export default App
