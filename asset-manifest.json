@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/mtg-flavor-text/static/js/main.c000bbf2.chunk.js",
+    "main.js.map": "/mtg-flavor-text/static/js/main.c000bbf2.chunk.js.map",
+    "runtime-main.js": "/mtg-flavor-text/static/js/runtime-main.9dad6282.js",
+    "runtime-main.js.map": "/mtg-flavor-text/static/js/runtime-main.9dad6282.js.map",
+    "static/js/2.fb8d3aa0.chunk.js": "/mtg-flavor-text/static/js/2.fb8d3aa0.chunk.js",
+    "static/js/2.fb8d3aa0.chunk.js.map": "/mtg-flavor-text/static/js/2.fb8d3aa0.chunk.js.map",
+    "index.html": "/mtg-flavor-text/index.html",
+    "precache-manifest.e8f19ebd935d81a11fe218ffa4626c36.js": "/mtg-flavor-text/precache-manifest.e8f19ebd935d81a11fe218ffa4626c36.js",
+    "service-worker.js": "/mtg-flavor-text/service-worker.js",
+    "static/js/2.fb8d3aa0.chunk.js.LICENSE": "/mtg-flavor-text/static/js/2.fb8d3aa0.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9dad6282.js",
+    "static/js/2.fb8d3aa0.chunk.js",
+    "static/js/main.c000bbf2.chunk.js"
+  ]
+}
